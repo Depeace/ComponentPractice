@@ -1,1 +1,1 @@
-Clone then run npm install in root directory
+Clone then run 'npm install' in root directory
